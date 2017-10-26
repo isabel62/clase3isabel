@@ -5,7 +5,13 @@
  */
 package clase3isabel;
 
-/**
+/******************************************************************************************************
+ * Isasbel Iribarren G
+ * @author sala306
+ * Fecha:Octubre 26 de 2017
+ * Programa:Clase3isabel
+ * Responsabilidad:Clase principal
+ * 
  *
  * @author LAB08
  */
