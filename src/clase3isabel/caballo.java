@@ -13,16 +13,16 @@ public class caballo {
     String altura;
     String color;
     String peso;
-    String rasa;
+    String raza;
     int patas= 4, edad;
     
     //Metodo constructor
-    public Caballo(String nuevoNombre)
+    public caballo(String nuevoNombre)
     {
     raza = nuevoNombre;
 }
 //Metodo get y set de la clase
-    public relinchar()
+    public void relinchar()
     {
         
         
